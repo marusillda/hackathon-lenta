@@ -1,0 +1,36 @@
+.closed {
+  height: 44px;
+  overflow-y: hidden;
+}
+
+.opened {
+  height: auto;
+  overflow-y: auto;
+}
+
+.listTitle {
+  height: 44px;
+  display: block;
+}
+
+.catTitle {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 44px;
+}
+
+.dippest {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 44px;
+}
+
+input[type="checkbox"] {
+  position: relative;
+  cursor: pointer;
+  accent-color: #003c96;
+  width: 16px;
+  height: 16px;
+}

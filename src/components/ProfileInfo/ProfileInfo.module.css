@@ -1,0 +1,75 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.infoWrapper {
+  display: flex;
+  align-items: center;
+  margin-right: 44px;
+}
+
+.image {
+  width: 24px;
+  height: 24px;
+  margin-right: 3px;
+}
+
+.turnedImage {
+  transform: rotate(180deg);
+  width: 24px;
+  height: 24px;
+  margin-left: 12px;
+}
+
+.text {
+  margin: 0;
+  font-weight: 400;
+  align-self: center;
+  font-size: 16px;
+  line-height: 19px;
+  color: var(--color-text-primary);
+}
+
+.button {
+  background-color: var(--color-interface-white);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.dropDownMenuContainer {
+  position: absolute;
+  min-width: 248px;
+  background-color: var(--color-interface-white);
+  border-radius: 16px;
+  padding: 13px 20px;
+  box-sizing: border-box;
+  top: 85px;
+  right: 32px;
+  z-index: 2;
+}
+
+.dropDownMenuImage {
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+}
+
+.dropDownMenuInfoWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 26px;
+  cursor: pointer;
+}
+
+.dropDownMenuInfoWrapper:last-of-type {
+  margin-bottom: 13px;
+}
+
+.arrowImage {
+  margin-left: 12px;
+  width: 24px;
+  height: 24px;
+}

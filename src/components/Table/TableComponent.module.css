@@ -1,0 +1,28 @@
+.footer {
+  min-width: 896px;
+  min-height: 64px;
+  border-radius: 16px;
+  padding: 16px 24px 16px 12px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--color-interface-grey);
+  align-items: center;
+  position: absolute;
+  bottom: 32px;
+  left: 332px;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.sumContainer {
+  display: flex;
+  align-items: center;
+}
+
+.productSum {
+  margin: 24px 0 16px 0;
+}

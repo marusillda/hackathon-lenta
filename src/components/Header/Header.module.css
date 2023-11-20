@@ -1,0 +1,9 @@
+.container {
+  max-height: 82px;
+  background-color: var(--color-interface-white);
+  box-shadow: var(--common-element-shadow);
+  padding: 32px 32px 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}

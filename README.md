@@ -15,8 +15,9 @@
 - MUI
 - classnames
 
-![Превью проекта](./src/images/) 
-
+![Превью проекта](./images/signin.JPG)
+![Превью проекта](./images/table.JPG)
+![Превью проекта](./images/chart.JPG)
 
 ## Установка и запуск приложения
 

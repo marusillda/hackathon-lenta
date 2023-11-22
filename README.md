@@ -15,6 +15,9 @@
 - MUI
 - classnames
 
+![Превью проекта](./src/images/) 
+
+
 ## Установка и запуск приложения
 
 1. Клонировать репозиторий
@@ -39,7 +42,7 @@
 
 ## Соавтор проекта
 
-Мария Добророднова
+Alena Ismagilova
 
-1.  Github: https://github.com/marusillda
-2.  Email: maria.dobrorodnova@gmail.com
+1.  Github: https://github.com/AlenaIsmagilova
+2.  Email: ismagilovaalena90@yandex.ru

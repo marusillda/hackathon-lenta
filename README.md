@@ -10,7 +10,7 @@
 - Typescript
 - Redux Toolkit
 
-### Сторонние библиотеки
+### Сторонние библиотеки 
 
 - MUI
 - classnames

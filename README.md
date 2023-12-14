@@ -22,7 +22,7 @@
 ## Установка и запуск приложения
 
 1. Клонировать репозиторий
-
+ 
    ```shell
    git clone git@github.com:AlenaIsmagilova/lenta-frontend.git
    ```
